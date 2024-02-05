@@ -18,11 +18,12 @@ A collection of Materials, Textures, Shaders, Models and more.
 - [ ] [Birch Log]()
 - [ ] [Walnut Log]()
 
-- [ ] [Oak Wood]()
+- [ ] [Oak Wood](materials/oak.blend)
 - [ ] [Birch Wood]()
 - [ ] [Walnut Wood]()
 
 - [ ] [Particle Board / Chipboard]()
+- [ ] [Planks]()
 
 ### Stone
 
@@ -92,7 +93,7 @@ A collection of Materials, Textures, Shaders, Models and more.
 
 |                                                                                           |                                                                                           |
 | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| [Cobblestone](materials/cobblestone.blend)<BR>![cobblestone](screenshots/cobblestone.png) | [Cobblestone](materials/cobblestone.blend)<BR>![cobblestone](screenshots/cobblestone.png) |
+| [Cobblestone](materials/cobblestone.blend)<BR>![cobblestone](screenshots/cobblestone.png) | [Oak](materials/oak.blend)<BR>![oak](screenshots/oak.png)                                 |
 | [Cobblestone](materials/cobblestone.blend)<BR>![cobblestone](screenshots/cobblestone.png) | [Cobblestone](materials/cobblestone.blend)<BR>![cobblestone](screenshots/cobblestone.png) |
 
 # How to use
