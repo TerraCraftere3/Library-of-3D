@@ -18,9 +18,9 @@ A collection of Materials, Textures, Shaders, Models and more.
 - [ ] [Birch Log]()
 - [ ] [Walnut Log]()
 
-- [ ] [Oak Wood](materials/oak.blend)
+- [x] [Oak Wood](materials/oak.blend)
 - [ ] [Birch Wood]()
-- [ ] [Walnut Wood]()
+- [x] [Walnut Wood](materials/walnut.blend)
 
 - [ ] [Particle Board / Chipboard]()
 - [ ] [Planks]()
@@ -94,7 +94,7 @@ A collection of Materials, Textures, Shaders, Models and more.
 |                                                                                           |                                                                                           |
 | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
 | [Cobblestone](materials/cobblestone.blend)<BR>![cobblestone](screenshots/cobblestone.png) | [Oak](materials/oak.blend)<BR>![oak](screenshots/oak.png)                                 |
-| [Cobblestone](materials/cobblestone.blend)<BR>![cobblestone](screenshots/cobblestone.png) | [Cobblestone](materials/cobblestone.blend)<BR>![cobblestone](screenshots/cobblestone.png) |
+| [Walnut](materials/walnut.blend)<BR>![walnut](screenshots/walnut.png)                     | [Cobblestone](materials/cobblestone.blend)<BR>![cobblestone](screenshots/cobblestone.png) |
 
 # How to use
 
