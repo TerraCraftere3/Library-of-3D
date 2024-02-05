@@ -10,6 +10,7 @@ A collection of Materials, Textures, Shaders, Models and more.
 
 - [ ] [Iron]()
 - [ ] [Gold]()
+- [ ] [Copper]()
 
 ### Wood
 
@@ -25,7 +26,7 @@ A collection of Materials, Textures, Shaders, Models and more.
 
 ### Stone
 
-- [ ] [Cobblestone]()
+- [x] [Cobblestone](materials/cobblestone.blend)
 - [ ] [Stone Wall]()
 - [ ] [Rock Surface]()
 
@@ -57,6 +58,8 @@ A collection of Materials, Textures, Shaders, Models and more.
 - [ ] [Purple (Pattern)]()
 - [ ] [Yellow (Pattern)]()
 
+- [ ] [Leather]()
+
 ## Models
 
 ### Walls
@@ -83,12 +86,17 @@ A collection of Materials, Textures, Shaders, Models and more.
 
 ### Other
 
-- [ ] [Material Preview](models/material_preview.blend)
+- [x] [Material Preview](models/material_preview.blend)
 
 # Screenshots
 
+|                                                                                           |                                                                                           |
+| ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| [Cobblestone](materials/cobblestone.blend)<BR>![cobblestone](screenshots/cobblestone.png) | [Cobblestone](materials/cobblestone.blend)<BR>![cobblestone](screenshots/cobblestone.png) |
+| [Cobblestone](materials/cobblestone.blend)<BR>![cobblestone](screenshots/cobblestone.png) | [Cobblestone](materials/cobblestone.blend)<BR>![cobblestone](screenshots/cobblestone.png) |
+
 # How to use
 
-You need to have
+You need to have `Node Wrangler` and `Node Presets` installed and activated in your blender installation.
 
 You can use ANY materials you find here, but be warned: some materials, textures, models come from youtube tutorials, etc.
