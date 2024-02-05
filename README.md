@@ -48,7 +48,7 @@ A collection of Materials, Textures, Shaders, Models and more.
 ### Fabric
 
 - [ ] [Red]()
-- [ ] [Blue]()
+- [x] [Blue](materials/fabric_blue.blend)
 - [ ] [Green]()
 - [ ] [Purple]()
 - [ ] [Yellow]()
@@ -91,10 +91,10 @@ A collection of Materials, Textures, Shaders, Models and more.
 
 # Screenshots
 
-|                                                                                           |                                                                                           |
-| ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| [Cobblestone](materials/cobblestone.blend)<BR>![cobblestone](screenshots/cobblestone.png) | [Oak](materials/oak.blend)<BR>![oak](screenshots/oak.png)                                 |
-| [Walnut](materials/walnut.blend)<BR>![walnut](screenshots/walnut.png)                     | [Cobblestone](materials/cobblestone.blend)<BR>![cobblestone](screenshots/cobblestone.png) |
+|                                                                                           |                                                                                             |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| [Cobblestone](materials/cobblestone.blend)<BR>![cobblestone](screenshots/cobblestone.png) | [Oak](materials/oak.blend)<BR>![oak](screenshots/oak.png)                                   |
+| [Walnut](materials/walnut.blend)<BR>![walnut](screenshots/walnut.png)                     | [Fabric (Blue)](materials/fabric_blue.blend)<BR>![cobblestone](screenshots/fabric_blue.png) |
 
 # How to use
 
