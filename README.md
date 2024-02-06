@@ -42,7 +42,7 @@ A collection of Materials, Textures, Shaders, Models and more.
 - [ ] [Gravel]()
 - [ ] [Sand]()
 - [ ] [Snow]()
-- [ ] [Ice]()
+- [x] [Ice](materials/ice.blend)
 - [ ] [Water]()
 
 ### Building
@@ -90,7 +90,9 @@ A collection of Materials, Textures, Shaders, Models and more.
 ### Medieval
 
 - [ ] [Castle]()
-- [ ] []()
+- [ ] [Cannon]()
+
+### Deco
 
 ### Modern Buildings
 
@@ -109,10 +111,11 @@ A collection of Materials, Textures, Shaders, Models and more.
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | [Cobblestone](materials/cobblestone.blend)<BR>![cobblestone](screenshots/cobblestone.png) | [Oak](materials/oak.blend)<BR>![oak](screenshots/oak.png)                                  |
 | [Walnut](materials/walnut.blend)<BR>![walnut](screenshots/walnut.png)                     | [Fabric](materials/fabric_blue.blend)<BR>![cobblestone](screenshots/fabric_red.png) || [Cobblestone](materials/cobblestone.blend)<BR>![cobblestone](screenshots/cobblestone.png) | [Oak](materials/oak.blend)<BR>![oak](screenshots/oak.png)                                  |
-| [Oak Bark](materials/oak_bark.blend)<BR>![walnut](screenshots/oak_bark.png)                     | [Fabric ()](materials/fabric_blue.blend)<BR>![cobblestone](screenshots/fabric_red.png) |
+| [Oak Bark](materials/oak_bark.blend)<BR>![oak bark](screenshots/oak_bark.png)                     | [Ice](materials/ice.blend)<BR>![ice](screenshots/ice.png) |
 
 # How to use
 
 You need to have `Node Wrangler` and `Node Presets` installed and activated in your blender installation.
+Some Materials use `Experimental` Mode and `Raytracing / Cycles` Mode.
 
 You can use ANY materials you find here, but be warned: some materials, textures, models come from youtube tutorials, etc.
