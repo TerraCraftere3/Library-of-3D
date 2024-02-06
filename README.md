@@ -2,6 +2,10 @@
 
 A collection of Materials, Textures, Shaders, Models and more.
 
+- Materials: 8
+- Textures: 0
+- Models: 1
+
 # Collection
 
 ## Materials
@@ -14,9 +18,9 @@ A collection of Materials, Textures, Shaders, Models and more.
 
 ### Wood
 
-- [ ] [Oak Log]()
-- [ ] [Birch Log]()
-- [ ] [Walnut Log]()
+- [ ] [Oak Bark]()
+- [ ] [Birch Bark]()
+- [ ] [Walnut Bark]()
 
 - [x] [Oak Wood](materials/oak.blend)
 - [ ] [Birch Wood]()
@@ -47,11 +51,11 @@ A collection of Materials, Textures, Shaders, Models and more.
 
 ### Fabric
 
-- [ ] [Red]()
+- [x] [Red](materials/fabric_red.blend)
 - [x] [Blue](materials/fabric_blue.blend)
-- [ ] [Green]()
-- [ ] [Purple]()
-- [ ] [Yellow]()
+- [x] [Green](materials/fabric_green.blend)
+- [x] [Purple](materials/fabric_purple.blend)
+- [x] [Yellow](materials/fabric_yellow.blend)
 
 - [ ] [Red (Pattern)]()
 - [ ] [Blue (Pattern)]()
@@ -68,17 +72,24 @@ A collection of Materials, Textures, Shaders, Models and more.
 - [ ] [Fence]()
 - [ ] [Building Wall]()
 
-### Chess
+### Boardgames
 
 - [ ] [Chessboard]()
-- [ ] [Piece (Queen)]()
-- [ ] [Piece (King)]()
-- [ ] [Piece (Pawn)]()
-- [ ] [Piece (Bishop)]()
-- [ ] [Piece (Knight)]()
-- [ ] [Piece (Rook)]()
+- [ ] [Chess Piece (Queen)]()
+- [ ] [Chess Piece (King)]()
+- [ ] [Chess Piece (Pawn)]()
+- [ ] [Chess Piece (Bishop)]()
+- [ ] [Chess Piece (Knight)]()
+- [ ] [Chess Piece (Rook)]()
 
-### Buildings
+- [ ] [Dice]()
+
+### Medieval
+
+- [ ] [Castle]()
+- [ ] []()
+
+### Modern Buildings
 
 - [ ] [Hospital]()
 - [ ] [Small House]()
@@ -91,10 +102,10 @@ A collection of Materials, Textures, Shaders, Models and more.
 
 # Screenshots
 
-|                                                                                           |                                                                                             |
-| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| [Cobblestone](materials/cobblestone.blend)<BR>![cobblestone](screenshots/cobblestone.png) | [Oak](materials/oak.blend)<BR>![oak](screenshots/oak.png)                                   |
-| [Walnut](materials/walnut.blend)<BR>![walnut](screenshots/walnut.png)                     | [Fabric (Blue)](materials/fabric_blue.blend)<BR>![cobblestone](screenshots/fabric_blue.png) |
+|                                                                                           |                                                                                            |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| [Cobblestone](materials/cobblestone.blend)<BR>![cobblestone](screenshots/cobblestone.png) | [Oak](materials/oak.blend)<BR>![oak](screenshots/oak.png)                                  |
+| [Walnut](materials/walnut.blend)<BR>![walnut](screenshots/walnut.png)                     | [Fabric (Blue)](materials/fabric_blue.blend)<BR>![cobblestone](screenshots/fabric_red.png) |
 
 # How to use
 
