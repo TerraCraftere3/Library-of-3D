@@ -2,13 +2,9 @@
 
 A collection of Materials, Textures, Shaders, Models and more.
 
-- Materials: 8
-- Textures: 0
-- Models: 1
-
 # Collection
 
-## Materials
+## [Materials](materials/)
 
 ### Metal
 
@@ -68,7 +64,7 @@ A collection of Materials, Textures, Shaders, Models and more.
 
 - [ ] [Leather]()
 
-## Models
+## [Models](models/)
 
 ### Walls
 
@@ -93,6 +89,7 @@ A collection of Materials, Textures, Shaders, Models and more.
 - [ ] [Cannon]()
 
 ### Deco
+- [ ] [Barrel]()
 
 ### Modern Buildings
 
@@ -105,7 +102,7 @@ A collection of Materials, Textures, Shaders, Models and more.
 
 - [x] [Material Preview](models/material_preview.blend)
 
-# Screenshots
+# [Screenshots](screenshots/)
 
 |                                                                                           |                                                                                            |
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
