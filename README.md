@@ -18,7 +18,7 @@ A collection of Materials, Textures, Shaders, Models and more.
 
 ### Wood
 
-- [ ] [Oak Bark]()
+- [x] [Oak Bark](materials/oak_bark.blend)
 - [ ] [Birch Bark]()
 - [ ] [Walnut Bark]()
 
@@ -42,12 +42,15 @@ A collection of Materials, Textures, Shaders, Models and more.
 - [ ] [Gravel]()
 - [ ] [Sand]()
 - [ ] [Snow]()
+- [ ] [Ice]()
+- [ ] [Water]()
 
-### Walls
+### Building
 
 - [ ] [Concrete]()
 - [ ] [Brick Wall]()
 - [ ] [Stone Wall]()
+- [ ] [Glass]()
 
 ### Fabric
 
@@ -105,7 +108,8 @@ A collection of Materials, Textures, Shaders, Models and more.
 |                                                                                           |                                                                                            |
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | [Cobblestone](materials/cobblestone.blend)<BR>![cobblestone](screenshots/cobblestone.png) | [Oak](materials/oak.blend)<BR>![oak](screenshots/oak.png)                                  |
-| [Walnut](materials/walnut.blend)<BR>![walnut](screenshots/walnut.png)                     | [Fabric (Blue)](materials/fabric_blue.blend)<BR>![cobblestone](screenshots/fabric_red.png) |
+| [Walnut](materials/walnut.blend)<BR>![walnut](screenshots/walnut.png)                     | [Fabric](materials/fabric_blue.blend)<BR>![cobblestone](screenshots/fabric_red.png) || [Cobblestone](materials/cobblestone.blend)<BR>![cobblestone](screenshots/cobblestone.png) | [Oak](materials/oak.blend)<BR>![oak](screenshots/oak.png)                                  |
+| [Oak Bark](materials/oak_bark.blend)<BR>![walnut](screenshots/oak_bark.png)                     | [Fabric ()](materials/fabric_blue.blend)<BR>![cobblestone](screenshots/fabric_red.png) |
 
 # How to use
 
