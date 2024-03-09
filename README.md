@@ -6,6 +6,10 @@ A collection of Materials, Textures, Shaders, Models and more.
 
 ## [Materials](materials/)
 
+## Animal
+- [ ] [Feather]()
+- [x] [Leather](materials/leather.blend)
+
 ### Metal
 
 - [ ] [Iron]()
@@ -24,6 +28,10 @@ A collection of Materials, Textures, Shaders, Models and more.
 
 - [ ] [Particle Board / Chipboard]()
 - [ ] [Planks]()
+
+### Paper, Cardboard, etc.
+- [ ] [Paper]()
+- [x] [Cardboard](materials/cardboard.blend)
 
 ### Stone
 
@@ -90,6 +98,19 @@ A collection of Materials, Textures, Shaders, Models and more.
 
 ### Deco
 - [ ] [Barrel]()
+- [ ] [Food Plate]()
+- [ ] [Book]()
+- [ ] [Book-/Shelf]()
+
+### Food
+- [ ] [Cookies]()
+- [ ] [Chicken]()
+- [ ] [Carrots]()
+- [ ] [Pees]()
+- [ ] [Burger]()
+- [ ] [Pizza]()
+- [ ] [Strawberries]()
+- [ ] [Berries]()
 
 ### Modern Buildings
 
@@ -104,11 +125,12 @@ A collection of Materials, Textures, Shaders, Models and more.
 
 # [Screenshots](screenshots/)
 
-|                                                                                           |                                                                                            |
-| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| [Cobblestone](materials/cobblestone.blend)<BR>![cobblestone](screenshots/cobblestone.png) | [Oak](materials/oak.blend)<BR>![oak](screenshots/oak.png)                                  |
-| [Walnut](materials/walnut.blend)<BR>![walnut](screenshots/walnut.png)                     | [Fabric](materials/fabric_blue.blend)<BR>![cobblestone](screenshots/fabric_red.png) || [Cobblestone](materials/cobblestone.blend)<BR>![cobblestone](screenshots/cobblestone.png) | [Oak](materials/oak.blend)<BR>![oak](screenshots/oak.png)                                  |
-| [Oak Bark](materials/oak_bark.blend)<BR>![oak bark](screenshots/oak_bark.png)                     | [Ice](materials/ice.blend)<BR>![ice](screenshots/ice.png) |
+|   |   |
+| - | - |
+|[Cobblestone](materials/cobblestone.blend)<BR>![Cobblestone](screenshots/cobblestone.png)|[Fabric (Red)](materials/fabric_red.blend)<BR>![Fabric](screenshots/fabric_red.png)|
+|[Oak Bark](materials/oak_bark.blend)<BR>![Oak Bark](screenshots/oak_bark.png)|[Oak](materials/oak.blend)<BR>![Fabric](screenshots/oak.png)|
+|[Walnut](materials/walnut.blend)<BR>![Walnut](screenshots/walnut.png)|[Leather](materials/leather.blend)<BR>![Leather](screenshots/leather.png)|
+|[Ice](materials/ice.blend)<BR>![Ice](screenshots/ice.png)|[Water](materials/water.blend)<BR>![Water](screenshots/water.png)|
 
 # How to use
 
