@@ -78,6 +78,7 @@ A collection of Materials, Textures, Shaders, Models and more.
 
 - [ ] [Fence]()
 - [ ] [Building Wall]()
+- [x] [Rough Plaster](rough_plaster.blend)
 
 ### Boardgames
 
@@ -131,6 +132,7 @@ A collection of Materials, Textures, Shaders, Models and more.
 |[Oak Bark](materials/oak_bark.blend)<BR>![Oak Bark](screenshots/oak_bark.png)|[Oak](materials/oak.blend)<BR>![Fabric](screenshots/oak.png)|
 |[Walnut](materials/walnut.blend)<BR>![Walnut](screenshots/walnut.png)|[Leather](materials/leather.blend)<BR>![Leather](screenshots/leather.png)|
 |[Ice](materials/ice.blend)<BR>![Ice](screenshots/ice.png)|[Water](materials/water.blend)<BR>![Water](screenshots/water.png)|
+|[Rough Plaster](materials/rough_plaster.blend)<BR>![Rough Plaster](screenshots/rough_plaster.png)|[Cardboard](materials/cardboard.blend)<BR>![Cardboard](screenshots/cardboard.png)|
 
 # How to use
 
