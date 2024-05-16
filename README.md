@@ -1,4 +1,4 @@
-# Library of 3D
+# 3D Library
 
 A collection of Materials, Textures, Shaders, Models and more.
 
